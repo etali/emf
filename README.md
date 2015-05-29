@@ -29,6 +29,8 @@ We adopt word2vec from https://code.google.com/p/word2vec/ to generate co-occurr
 ### Authors
 
 Yitan Li, Linli Xu, Fei Tian, Liang Jiang, Xiaowei Zhong, Enhong Chen
+
 etali@mail.ustc.edu.cn
+
 University of Science and Technology of China
 
