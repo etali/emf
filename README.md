@@ -5,7 +5,7 @@
 1. We write matlab code to train skip-gram negative sampling(SGNS) that is originally provided by the famous NLP toolbox **word2vec**(https://code.google.com/p/word2vec/).
 2. Our objective function is equivalent to SGNS, however, we design our algorithm in another way.
 3. You can take our code(w2vsbd.m) as a matlab implementation of SGNS, which is quite simple.
-4. Moveover, we provide a supervised explicit matrix factorization(w2vsbdsup.m) that will boost the perform through supervision.
+4. Moveover, we provide a supervised explicit matrix factorization(w2vsbdsup.m) that will boost the performance through supervision.
 
 ### Usage
 
