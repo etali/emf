@@ -13,7 +13,7 @@
 2. Decompress 'enwik9.zip' and get 'enwik9', then put it in folder './data/' 
 3. Run run_emf.m file in matlab, then you will get a result of the first experiment of our paper
 4. Run run_semf.m file in matlab, then you will get a result of the second experiment of our paper
-5. Refer to our paper(http://home.ustc.edu.cn/~etali/papers/EMF-IJCAI2015.pdf) and code
+5. Refer to our paper(https://etali.github.io/papers/EMF-IJCAI2015.pdf) and code
 
 ### Our Experimental Environment(Requirements)
 
